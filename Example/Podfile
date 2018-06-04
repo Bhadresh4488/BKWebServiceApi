@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BKWebServiceApi_Example' do
+  pod 'BKWebServiceApi', :path => '../'
+
+  target 'BKWebServiceApi_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
