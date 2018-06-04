@@ -1,0 +1,6 @@
+framework module Pods_BKWebServiceApi_Example {
+  umbrella header "Pods-BKWebServiceApi_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

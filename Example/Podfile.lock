@@ -1,0 +1,16 @@
+PODS:
+  - BKWebServiceApi (0.1.0)
+
+DEPENDENCIES:
+  - BKWebServiceApi (from `../`)
+
+EXTERNAL SOURCES:
+  BKWebServiceApi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BKWebServiceApi: 1f66135b3bb8ee71f41e37558f342dd71d5350d0
+
+PODFILE CHECKSUM: aaa83f4f60ab95c83379be4b817e90f8effc5e75
+
+COCOAPODS: 1.5.0

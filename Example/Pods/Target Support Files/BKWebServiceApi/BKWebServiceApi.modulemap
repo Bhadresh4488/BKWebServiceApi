@@ -1,0 +1,6 @@
+framework module BKWebServiceApi {
+  umbrella header "BKWebServiceApi-umbrella.h"
+
+  export *
+  module * { export * }
+}

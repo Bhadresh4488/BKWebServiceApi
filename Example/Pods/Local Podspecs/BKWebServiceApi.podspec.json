@@ -1,0 +1,22 @@
+{
+  "name": "BKWebServiceApi",
+  "version": "0.1.0",
+  "summary": "A short description of BKWebServiceApi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bhadresh4488/BKWebServiceApi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bhadresh4488": "bhadresh4488@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Bhadresh4488/BKWebServiceApi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BKWebServiceApi/Classes/**/*"
+}
